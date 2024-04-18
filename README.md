@@ -11,5 +11,3 @@ execute either ~/.bashrc or ~/.bash_profile
 
 1.	Go to the directory containing circos.conf
 2.	Type in terminal: circos -conf circos.conf
-![image](https://github.com/fvfarahani/CircosPlot/assets/53792996/cf67653c-5d48-4ff7-892c-e5fe8de0fc3d)
-
