@@ -11,3 +11,9 @@ execute either ~/.bashrc or ~/.bash_profile
 1. Go to the directory containing circos.conf<br>
 2. Type in terminal: circos -conf circos.conf
 
+
+
+
+------------------------------------------------
+https://github.com/moshi4/pyCirclize
+
