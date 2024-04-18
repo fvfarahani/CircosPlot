@@ -4,8 +4,8 @@ Discover Circos plots—visualize data in circular layout, ideal for revealing i
 Install Circos:
 http://aidanquinn.net/blog/blog/2015/11/11/installing-circos-on-mac-osx/
 
-At the end:
-export PATH=~/Applications/circos/current/bin:$PATH
+At the end: \n
+export PATH=~/Applications/circos/current/bin:$PATH \n
 execute either ~/.bashrc or ~/.bash_profile
 
 
