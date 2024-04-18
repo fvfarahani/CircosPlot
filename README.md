@@ -1,9 +1,10 @@
 # CircosPlot
 Discover Circos plots—visualize data in circular layout, ideal for revealing intricate relationships.
 
-Install:
+Install Circos:
 http://aidanquinn.net/blog/blog/2015/11/11/installing-circos-on-mac-osx/
-at the end:
+
+At the end:
 export PATH=~/Applications/circos/current/bin:$PATH
 execute either ~/.bashrc or ~/.bash_profile
 
